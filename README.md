@@ -1,3 +1,3 @@
 # Desafios-de-projeto-dio
 
-## Repositorio para armazenar desafios de projeto da plataforma Dio.
+## Repositório para armazenar desafios de projeto da plataforma Dio.
